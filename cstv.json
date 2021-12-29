@@ -1,25 +1,27 @@
 {
     "sites": [
         {
-            "key": "柚子",
-            "name": "柚子",
-            "type": 0,
-            "api": "http://tv.aitesucai.xyz/api.php/provide/vod/at/xml",
-            "playUrl": "https://tv.arbd.cn/player/?url=",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
+      "key": "csp_xpath_subb",
+      "name": "subaibai     完整🔞福利接口请访问http://gg.gg/nihao",
+      "type": 3,
+      "api": "csp_XPathSubb",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/xpath/subaibai.json"
         },
         {
-            "key": "csp_xpath_subb",
-            "name": "首页12月25日精简接口",
-            "type": 3,
-            "api": "csp_XPathSubb",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/xpath/subaibai.json"
-        },
+      "key": "首页12月29日精简接口      ",
+      "name": "首页12月29日精简接口",
+      "type": 0,
+      "api": "http://api.000zy.com/provide/vod/from/qiyi/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+
+
+    
         {
             "key": "csp_YydsAli1",
             "name": "YYDS阿里(爬蟲)测试",

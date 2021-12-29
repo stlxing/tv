@@ -1,6 +1,16 @@
 {
     "sites": [
         {
+            "key": "柚子",
+            "name": "柚子",
+            "type": 0,
+            "api": "http://tv.aitesucai.xyz/api.php/provide/vod/at/xml",
+            "playUrl": "https://tv.arbd.cn/player/?url=",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
             "key": "csp_xpath_subb",
             "name": "首页12月25日精简接口",
             "type": 3,

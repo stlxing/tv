@@ -1,6 +1,6 @@
 {
     "sites":[
-        {"key":"csp_xpath_jpys_L","name":"@极品_XP_L","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.strcopy.com/ext/jpys.json"},
+        {"key":"csp_xpath_jpys_L","name":"@极品_XP_L","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/stlxing/tv@raw/main/ext/jpys.json"},
         {
           "key": "csp_xpath_94sm",
           "name": "94神马(XPath)",

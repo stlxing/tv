@@ -9,7 +9,7 @@
           "searchable":1,
           "quickSearch":1,
           "filterable":0,
-          "ext":"https://www.strcopy.com/jx/ext/yygc.json"
+          "ext":"https://cdn.jsdelivr.net/gh/stlxing/tv@main/ext/ysgc.json"
         },
         //{"key":"csp_xpath_ddg","name":"达达龟","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.strcopy.com/jx/ext/ddg.json"},
 
